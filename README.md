@@ -1,0 +1,2 @@
+# TMPLTMODFEWA_TEMPLATE_MODULE_FRONT_END_WEB_APP
+Front End Web Application Module Template
